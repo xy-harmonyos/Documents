@@ -30,6 +30,7 @@ If you find our open-source software helpful, please scan the QR code below to r
 
 ### Contact
 
-WebSite: [Gitee/xy-opensource](https://gitee.com/xy-opensource)  |   [GitCode/xy-opensource](https://gitcode.com/xy-opensource)  |  [Github/yuyangit](https://github.com/yuyangit)
-Weibo: [yuyangwb](https://weibo.com/u/3914451541)
-Mail: yuyangit.0515@qq.com
+WebSite:  [Gitee/xy-harmonyos](https://gitee.com/xy-harmonyos)  |   [GitCode/xy-harmonyos](https://gitcode.com/xy-harmonyos)  |  [Github/yuyangit](https://github.com/yuyangit)  
+Weibo:  [yuyangwb](https://weibo.com/u/3914451541)  
+X (Twitter): [yuyangit](https://x.com/yuyangit)  
+Email:  yuyangit.0515@qq.com

@@ -29,6 +29,6 @@
 
 ### 聯繫
 
-網站: [Gitee/xy-opensource](https://gitee.com/xy-opensource)  |   [GitCode/xy-opensource](https://gitcode.com/xy-opensource)  |  [Github/yuyangit](https://github.com/yuyangit)
-微博: [yuyangwb](https://weibo.com/u/3914451541)
-郵箱: yuyangit.0515@qq.com
+網站:  [Gitee/xy-harmonyos](https://gitee.com/xy-harmonyos)  |   [GitCode/xy-harmonyos](https://gitcode.com/xy-harmonyos)  |  [Github/yuyangit](https://github.com/yuyangit)  
+微博:  [yuyangwb](https://weibo.com/u/3914451541)  
+郵箱:  yuyangit.0515@qq.com
